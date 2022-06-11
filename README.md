@@ -8,16 +8,16 @@ Data Anggota TIM 5 MKB 2B:
 
 "  "
 
-problem :
+### problem :
 menyelesaikan permasalahan monitoring data pengiriman barang pada gudang logistik.
 
-solusi :
+### solusi :
 membuat aplikasi berbasis CRUD yang dimana didalamnya terdapat menu untuk mendata barang berdasarkan id, tanggal pengiriman, jenis pengiriman (laut,udara,darat), jenis barang yang dikirim, asal pengiriman, tujuan pengiriman dan status pengiriman yang nantinya dapat mempermudah pencarian barang.
 
 flowchart
 
 
-panduan menggunakan aplikasi :
+### Panduan menggunakan aplikasi :
 
 MENU UTAMA
 
