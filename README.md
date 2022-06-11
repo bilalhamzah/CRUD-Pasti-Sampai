@@ -34,6 +34,9 @@ screenshot percobaan.![WhatsApp Image 2022-06-11 at 19 10 00](https://user-image
 (https://user-images.githubusercontent.com/105813412/173188465-ef21bdb1-84ce-4bc6-91ab-cdc267f293b3.jpeg)
 ![WhatsApp Image 2022-06-11 at 19 17 04](https://user-images.githubusercontent.com/105813412/173188471-2027ccd3-65eb-4702-ab39-5ab4f315be5b.jpeg)
 
-
+REFERENSI
+https://youtu.be/Z1RJmh_OqeA
+Ropianto, Muhammad, Agus Suryadi, and Indriani Dewi Safitri. "Penerapan Warehouse Management System Pada PT Epson Batam." JR: Jurnal Responsive Teknik Informatika 4.02 (2020): 41-50.
+JUNADI CHANNEL
 
 
